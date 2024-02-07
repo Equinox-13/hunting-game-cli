@@ -1,6 +1,6 @@
 # hunting-game-cli
 
-The project is part of the Applied AI Consulting technical assignment.
+The project is part of the Applied AI Consulting technical assignment that implements a CLI based hunting game.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ The project is part of the Applied AI Consulting technical assignment.
 ![Class diagram](./assets/class_diagram_game.jpg)
 
 ## Directory Structure
-- **ust-project/**
+- **hunting-game-cli/**
   - `assets/class_diagram_game.jpg`: Contains class diagram.
   - `hunting_game.py`: Main script file to play the game.
   - `test_functions.py`: Contains unit tests for the functions
